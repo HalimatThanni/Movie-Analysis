@@ -1,5 +1,5 @@
 # Movie-Analysis
-![](Netflix Logo.jpg)
+![](NetFlix-Logo.png)
 
 ## Project Overview
 
