@@ -20,3 +20,20 @@ By achieving these objectives, this analysis provides a data-driven overview of 
 ## Data Understanding
 
 The dataset used for this project consists of Netflix's catalogue of movies and TV shows, containing 8,790 records with key attributes such as title, director, country, date added to Netflix, rating, duration, and genre classification. To enhance the analysis, additional columns were derived, including the year and month of addition, TV show duration (in seasons), and the number of days since a title was added.
+
+## Exploratory Data Analysis (EDA)
+
+An in-depth exploratory data analysis (EDA) was conducted to gain insights into the Netflix dataset. This involved data inspection, cleaning, and visualization to uncover patterns and trends. Below are the key steps carried out during the analysis:
+
+#### 1. Initial Data Inspection:
+
+  - Used df.head() to view the first five rows of the dataset.
+  - Applied df.info() to check the datatype of each column, identifying any necessary modifications.
+
+<img width="754" alt="df info()" src="https://github.com/user-attachments/assets/6093397a-b272-4785-b179-5d38b993baca" />
+
+#### 2. Data Cleaning & Standardization:
+
+  - Standardized the text columns (e.g., title, country) by correcting abbreviations and inconsistent spellings.
+  - Converted date-related columns (release_year, date_added) to proper datetime formats, extracting relevant features like Year and Month for trend analysis.
+
