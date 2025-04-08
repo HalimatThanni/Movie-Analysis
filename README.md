@@ -1,5 +1,6 @@
 # Movie-Analysis
-<img src="NetFlix-Logo.png" width="1000" height="300">
+![NetFlix-Logo](https://github.com/user-attachments/assets/7340d21c-3683-4dca-95a1-25eff4143aa3)
+
 
 ## Project Overview
 
